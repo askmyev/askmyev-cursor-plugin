@@ -1,0 +1,11 @@
+{
+  "name": "askmyev",
+  "displayName": "AskMyEV",
+  "version": "1.0.0",
+  "description": "Ask Cursor about your own Tesla: battery health, range, charging, tires, alerts and history. Read-only by default.",
+  "author": { "name": "AskMyEV", "email": "support@askmyev.com" },
+  "homepage": "https://askmyev.com",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": ["tesla", "ev", "battery", "mcp"]
+}
